@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />
+    <PackageReference Include="Microsoft.ML" Version="3.0.0-preview.22621.2" />
+    <PackageReference Include="Microsoft.ML.TensorFlow" Version="3.0.0-preview.22621.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
